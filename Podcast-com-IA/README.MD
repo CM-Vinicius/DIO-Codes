@@ -42,22 +42,13 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
 ## 👨‍💻 Autor
 
 <p>
-    <img 
-      align=left 
-      margin=10 
-      width=80 
-      src="https://avatars.githubusercontent.com/u/37452836?v=4"
-    />
-    <p>Vinicius C. M.<br>
+    <p>
+        Vinicius C. M.<br>
     </p>
 </p>
-<br/><br/>
-<p>
+<br/>
+<br/>
 
 ---
 
 ⌨️ com 💜 por Vinicius C. M.
-
----
-
-⌨️ com 💜 por [Felipe Aguiar](https://github.com/felipeAguiarCode)
