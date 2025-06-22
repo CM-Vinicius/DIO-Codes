@@ -46,7 +46,6 @@ Utilizer uma esteira de prompts para gerar cada etapa do processo criativo.
         Vinicius C. M.<br>
     </p>
 </p>
-<br/>
 
 ---
 
